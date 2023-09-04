@@ -1,4 +1,4 @@
-let hscore = 0;
+// javascriptlet hscore = 0;
 hscore = document.getElementById("home-score").textContent
 console.log(hscore)
 hscore = Number(hscore)
